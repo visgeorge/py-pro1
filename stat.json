@@ -1,0 +1,11 @@
+[
+{ "name" : "Karnataka",
+  "capital" : "B'lore"
+ },
+{ "name" : "Tamil Nadu",
+  "capital" : "Chennai"
+ },
+{ "name" : "Kerala",
+  "capital" : "Trivandrum"
+ }
+ ]
